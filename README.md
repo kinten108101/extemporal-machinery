@@ -1,4 +1,3 @@
-# extemporal-machinery (not like what it seems!!)
- Industry 4.0 is a lie.
- Because as against the many headlines of our Industry 4.0, never has there been a rightful title that shall stay authentic to such a phenomenal change in humankind history textbook. The many lies and pseudo-facts are taken in, but not truths or revelations. Are we, with our sense of entitlement, while taking for granted the attainments of trailblazers like ducks to water, as a second nature, to be read like a book, that is, we are nothing more but the pedantic, belighted imbeciles and ignorant automatons out there, whose identity and respect for others dwindle as society thrives, so much so that we lose the sense of truth and reality, the disparity of goodwill, of true innovation, the difference between love and materialism? How extemporal and haphazard are our "acts and plays". And who am I to speak to you of such matter, if only, ...
- Anyway, this repository is for my latest projects.
+# extemporal-machinery 
+(The name bespeaks itself)
+Hajimemashite. All latest projects are to be published here. 
